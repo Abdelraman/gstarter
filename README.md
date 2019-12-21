@@ -1,4 +1,4 @@
-#gulp starter project
+# gulp starter project
 1. clone or download the project to your computer  
 2. cd to project directory  
 3. open packages.json, change project name  
